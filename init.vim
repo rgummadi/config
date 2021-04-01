@@ -1,5 +1,5 @@
 set nocompatible
-call plug#begin('C:\Users\hcl_rgum\AppData\Local\nvim\autoload')
+call plug#begin('C:\Users\rgummadi1\AppData\Local\nvim\autoload')
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tpope/vim-commentary'
 Plug 'junegunn/fzf',{ 'do': { -> fzf#install() } } 
